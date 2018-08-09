@@ -1,0 +1,24 @@
+html {
+	background: url(../images/bg_home.png);
+	color: white;
+}
+
+#main {
+	width: 30%;
+	min-height: 100px;
+	margin: auto;
+	margin-top: 15%;
+	background: white;
+	border-radius: 5px;
+}
+
+#main form {
+	width: 100%;
+	margin: auto;
+}
+
+#main input {
+	width: 90%;
+	margin: auto;
+	font-size: 1.8em;
+}
