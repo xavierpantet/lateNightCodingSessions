@@ -2,7 +2,7 @@
 A web service that gives you safe access to your passwords.
 
 ## How it works
-Well... I don't remembers exactly to be honnest. Basically the `Authenticator` class does everything but you might read the code to properly understand how everything works... sorry about that.
+Well... I don't remember exactly to be honnest. Basically the `Authenticator` class does everything but you might need to read the code to properly understand how everything works... sorry about that.
 
 1. Create a `data_raw` file at the root of the project and fill it with your passwords. Format is `Name of service: password`, one entry per line. For example: `Gmail: mySuperStrongPassword`.
 2. Call the `encryptData()` method after you replace `[password]` with your desired password. This will create the encrypted `data` file. You can now remove `data_raw`.
