@@ -6,6 +6,3 @@ Welcome to my late night programming projects repo! It's nothing especially inte
 2. iTunes Observer
 
    A rather short program written in Swift that listens to iTunes events (on Mac) and sends every update to your server, in case you want to show it somewhere.
-3. Image Resizer
-
-   An awful PHP script that basically enables you to resize and compress images.
